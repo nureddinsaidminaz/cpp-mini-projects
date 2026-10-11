@@ -1,6 +1,0 @@
-app
-*.o
-*.out
-*.exe
-build/
-.vscode/
